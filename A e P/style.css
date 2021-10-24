@@ -1,0 +1,48 @@
+*{
+    font-family: 'Ruda', sans-serif;
+}
+.myNav{
+    background-color: rgba(0,0,0,0.5);
+}
+.myNav ul li a{
+    color: white  !important; 
+}
+.myNav ul li a:hover{
+    color : #66BBDD !important;
+}
+.banner{
+    width: 100%;
+    opacity: 0.5 !important;
+}
+.fundo-preto{
+    background: black !important;
+}
+form{
+    background:white;
+    width: 450px;
+}
+form input{
+    width: 300px;
+}
+a{
+    color : #66BBDD !important;
+}
+.my-btn{
+    background-color:#66BBDD !important ;
+    border-color:#66BBDD !important;
+}
+form a:hover{
+    color: black !important;
+}
+article{
+    border: #66BBDD ;
+    border-style: solid;
+    border-radius: 40px;
+    height: 350px;
+}
+article img{
+    height: 200px !important;
+    width: 100%;
+    border-top-left-radius: 38px;
+    border-top-right-radius: 38px;
+}
